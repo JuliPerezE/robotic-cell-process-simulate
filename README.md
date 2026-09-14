@@ -13,7 +13,29 @@ This repository documents the technical progression and practical application of
 1. **Independent Testing Environment (`.pzx`):** Focused on platform fundamentals, CAD data management (NX, CATIA, JT), 6-axis KUKA robot setup, Tool Center Point (TCP) calibration, custom mechanism kinematics (Kinematics Editor), and path generation for spot and continuous seam welding.
 2. **Commercial Welding Cell Project:** 3D layout optimization and simulation for a dual-robot Kawasaki cell integrated with a 3D vision system and a nut-welding pedestal. Key tasks included CAD integration, Pick & Place sequencing, TCP orientation optimization, and full collision eradication using Collision Pairs to achieve 0% physical interference.
 
+
 ---
+
+## Cell Layout and Simulation Setup
+
+<br />
+
+<div align="center">
+
+  <h3>Cell Layout and Simulation Setup</h3>
+
+  <img src="Celda1.jpg" alt="Industrial Cell General Layout" width="80%" />
+  <p><em>Figure 1: General 3D layout and resource distribution in Siemens Tecnomatix Process Simulate.</em></p>
+
+  <br />
+
+  <img src="Soldadura.png" alt="Robot and Pedestal Interaction Detail" width="80%" />
+  <p><em>Figure 2: Detail view of the Kawasaki robot holding the workpiece during the nut-welding pedestal approach sequence.</em></p>
+
+</div>
+
+<br />
+
 
 ## 2. Consolidated Technical Skills
 
