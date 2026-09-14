@@ -3,7 +3,7 @@
 **Author:** Julieta Pérez Echeverría  
 **Context:** Engineering Internship Technical Report  
 **Platform:** Siemens Tecnomatix Process Simulate  
-
+> **Full Technical Report:** Read the complete engineering documentation in [PDF Format](Technical_Report_Process_Simulate.pdf).
 ---
 
 ## 1. Technical Progression and Context
